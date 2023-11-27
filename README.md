@@ -23,6 +23,7 @@ You can install these dependencies using the following command:
 ```bash
 pip install tensorflow numpy matplotlib pillow ipython tqdm
 ```
+
 ## Running Notebook
 
 ### 1. Clone the Repository
